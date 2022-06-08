@@ -1,10 +1,11 @@
 {
-    "name": "Trabajo barrera(Trabajo final)",
+    "name": "Trabajo alarma(Trabajo final)",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
